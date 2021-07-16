@@ -18,10 +18,6 @@ ul.social-network li{
     color: #3b5998;
 }
 
-.fa-twitter-square{
-    color: #00acee;
-}
-
 .fa-instagram{
     text-transform: uppercase;
     background: rgb(81,91,212);
@@ -29,10 +25,6 @@ ul.social-network li{
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-}
-
-.fa-linkedin-square{
-    color: #0072b1;
 }
 
 .fa-github-square{

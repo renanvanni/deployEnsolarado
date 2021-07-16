@@ -1,3 +1,7 @@
+.teste {
+    min-height: 100vh;
+}
+
 .sombra:focus{
     border-style: none;
     box-shadow: 0 0 1em;
@@ -71,7 +75,6 @@ i{
     transition: .2s;
 }
 
-
 .box:hover i{
     opacity: 0;
     z-index: -1;
@@ -81,4 +84,12 @@ i{
     max-width: 60%;
     max-height: 60%;
     margin: auto;
+}
+.carousel-item img{
+    height: 300px;
+    object-fit: cover;
+} 
+
+.posicao{
+    padding: 20px 20px 0 20px;
 }
