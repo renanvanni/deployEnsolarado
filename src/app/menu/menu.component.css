@@ -66,17 +66,14 @@
     border-radius: 5px;
 }
 
-@media (min-width: 991px){ /*bruno-zoado*/
-    
+@media (min-width: 991px){
     .navbar-brand{
         display: none;
     }
-    
 }
 
 @media (max-width: 990px){
     .sumir a img{
         display: none;
-        
     }
 }

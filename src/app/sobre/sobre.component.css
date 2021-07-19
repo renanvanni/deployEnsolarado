@@ -68,3 +68,7 @@ ul.social-network li{
 .fa-github-square{
     color: black;
 }
+
+.link{
+    cursor: pointer;
+}
